@@ -9,3 +9,7 @@ So, for these next few assignments, I'll show you some popular Pandas use-cases 
 - Basic knowledge of Python
 - Install [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
+# Pandas Cheat-Sheet
+
+
+
