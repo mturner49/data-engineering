@@ -11,6 +11,3 @@ So, for these next few assignments, I'll show you some popular Pandas use-cases 
 
 # Pandas Cheat-Sheet
 ![alt text](https://github.com/mturner49/data-engineering/blob/main/assignments/module_two/pandas/img/pandas-cheat-sheet-fixed.jpg?raw=true)
-
-
-
